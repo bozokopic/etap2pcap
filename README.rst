@@ -35,6 +35,7 @@ License
 -------
 
 etap2pcap - Tibbo Ethernet Tap pcap logger
+
 Copyright (C) 2021 Bozo Kopic
 
 This program is free software: you can redistribute it and/or modify
