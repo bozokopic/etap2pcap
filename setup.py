@@ -7,11 +7,11 @@ readme = (Path(__file__).parent / 'README.rst').read_text()
 
 setup(
     name='etap2pcap',
-    version='0.0.1',
+    version='0.0.2',
     description='Tibbo Ethernet Tap pcap logger',
     long_description=readme,
     long_description_content_type='text/x-rst',
-    url='https://github.com/bnozokopic/etap2pcap',
+    url='https://github.com/bozokopic/etap2pcap',
     packages=['etap2pcap'],
     license='GPLv3',
     classifiers=[
